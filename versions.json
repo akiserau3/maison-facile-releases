@@ -2,26 +2,28 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.2/maison_facile.zip",
-      "sha256": "7c65d85222773d6b602c82f05ef8cd0f113c67c785e11b4a2804a6974c4b01a6",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.3/maison_facile.zip",
+      "sha256": "90312955b7a3a68c78ff5fd765c56297100eaf1558b3b3ffa7703282440c66fd",
       "notes_fr": [
+        "Nouveau bouton « Vérifier maintenant » dans Réglages > Mises à jour",
         "Réglages Home Assistant : plus de mention « installateur » pour une box installée chez soi"
       ]
     },
     "test": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.2/maison_facile.zip",
-      "sha256": "7c65d85222773d6b602c82f05ef8cd0f113c67c785e11b4a2804a6974c4b01a6",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.3/maison_facile.zip",
+      "sha256": "90312955b7a3a68c78ff5fd765c56297100eaf1558b3b3ffa7703282440c66fd",
       "notes_fr": [
+        "Nouveau bouton « Vérifier maintenant » dans Réglages > Mises à jour",
         "Réglages Home Assistant : plus de mention « installateur » pour une box installée chez soi"
       ]
     }
