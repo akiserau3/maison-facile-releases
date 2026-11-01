@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.3/maison_facile.zip",
-      "sha256": "90312955b7a3a68c78ff5fd765c56297100eaf1558b3b3ffa7703282440c66fd",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.4/maison_facile.zip",
+      "sha256": "338ce6e93ea24ad9efe64a5394e0966eff01416111f7fb3ced74a1033dae0172",
       "notes_fr": [
-        "Nouveau bouton « Vérifier maintenant » dans Réglages > Mises à jour",
-        "Réglages Home Assistant : plus de mention « installateur » pour une box installée chez soi"
+        "Les mises à jour sont recherchées toutes seules à l'ouverture de cette page",
+        "Bouton « Vérifier maintenant » et réglages sans mention « installateur » pour une box installée chez soi"
       ]
     },
     "test": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.3/maison_facile.zip",
-      "sha256": "90312955b7a3a68c78ff5fd765c56297100eaf1558b3b3ffa7703282440c66fd",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.4/maison_facile.zip",
+      "sha256": "338ce6e93ea24ad9efe64a5394e0966eff01416111f7fb3ced74a1033dae0172",
       "notes_fr": [
-        "Nouveau bouton « Vérifier maintenant » dans Réglages > Mises à jour",
-        "Réglages Home Assistant : plus de mention « installateur » pour une box installée chez soi"
+        "Les mises à jour sont recherchées toutes seules à l'ouverture de cette page",
+        "Bouton « Vérifier maintenant » et réglages sans mention « installateur » pour une box installée chez soi"
       ]
     }
   }
