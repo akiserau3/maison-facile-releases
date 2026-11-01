@@ -2,27 +2,27 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.8",
+      "version": "1.0.9",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.8/maison_facile.zip",
-      "sha256": "6f72c64a894a7aa0097500cc52f3f5d5bd2cde4b764018e7c4d01a1b623a605c",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.9/maison_facile.zip",
+      "sha256": "a9d7398f44d4726c8908c7857da70859e4a83ba9b2cd4742fb8d93ed2ccc8a57",
       "notes_fr": [
-        "Version de test : détection immédiate des mises à jour"
+        "VERSION DE TEST VOLONTAIREMENT CASSÉE : la box doit la refuser sans rien changer"
       ]
     },
     "test": {
-      "version": "1.0.8",
+      "version": "1.0.9",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.8/maison_facile.zip",
-      "sha256": "6f72c64a894a7aa0097500cc52f3f5d5bd2cde4b764018e7c4d01a1b623a605c",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.9/maison_facile.zip",
+      "sha256": "a9d7398f44d4726c8908c7857da70859e4a83ba9b2cd4742fb8d93ed2ccc8a57",
       "notes_fr": [
-        "Version de test : détection immédiate des mises à jour"
+        "VERSION DE TEST VOLONTAIREMENT CASSÉE : la box doit la refuser sans rien changer"
       ]
     }
   }
