@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.10",
+      "version": "1.0.11",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.10/maison_facile.zip",
-      "sha256": "954ff415d0189aca81ce5a3edd8214c89e9beafb4ba00bf8a97ac40483b082a7",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.11/maison_facile.zip",
+      "sha256": "13bddf38b1447c30b51d681a1c7b9e25af4d8373c1ce02eb49e1d7bf6ce9469e",
       "notes_fr": [
-        "Nouveau : un gardien remet automatiquement l'ancienne version si une mise à jour ne démarre pas",
-        "La mise à jour de nuit ne réessaie plus une version qui a échoué"
+        "Correction : après une mise à jour refusée, la version corrigée est bien proposée",
+        "Bouton « Vérifier maintenant » aussi sur l'écran d'erreur"
       ]
     },
     "test": {
-      "version": "1.0.10",
+      "version": "1.0.11",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.10/maison_facile.zip",
-      "sha256": "954ff415d0189aca81ce5a3edd8214c89e9beafb4ba00bf8a97ac40483b082a7",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.11/maison_facile.zip",
+      "sha256": "13bddf38b1447c30b51d681a1c7b9e25af4d8373c1ce02eb49e1d7bf6ce9469e",
       "notes_fr": [
-        "Nouveau : un gardien remet automatiquement l'ancienne version si une mise à jour ne démarre pas",
-        "La mise à jour de nuit ne réessaie plus une version qui a échoué"
+        "Correction : après une mise à jour refusée, la version corrigée est bien proposée",
+        "Bouton « Vérifier maintenant » aussi sur l'écran d'erreur"
       ]
     }
   }
