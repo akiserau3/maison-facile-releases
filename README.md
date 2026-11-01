@@ -8,7 +8,7 @@ Ce dépôt ne contient que les **mises à jour** de Maison Facile :
 Adresse à utiliser dans la box (Appareils et services › Maison Facile › Configurer) :
 
 ```
-https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/versions.json
+https://api.github.com/repos/akiserau3/maison-facile-releases/contents/versions.json
 ```
 
 Chaque archive est vérifiée par la box (empreinte SHA-256) avant installation, avec
