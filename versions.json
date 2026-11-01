@@ -7,7 +7,7 @@
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://github.com/akiserau3/maison-facile-releases/releases/download/v1.0.1/maison_facile.zip",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.1/maison_facile.zip",
       "sha256": "281a97049fbc817df179652b69d0e9c5ee43364f394b769536a90896f49a25f6",
       "notes_fr": [
         "Version de test du système de mise à jour",
@@ -20,7 +20,7 @@
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://github.com/akiserau3/maison-facile-releases/releases/download/v1.0.1/maison_facile.zip",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.1/maison_facile.zip",
       "sha256": "281a97049fbc817df179652b69d0e9c5ee43364f394b769536a90896f49a25f6",
       "notes_fr": [
         "Version de test du système de mise à jour",

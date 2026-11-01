@@ -3,7 +3,7 @@
 Ce dépôt ne contient que les **mises à jour** de Maison Facile :
 
 - `versions.json` : la dernière version de chaque canal (`stable`, `test`), lue par les box ;
-- l'onglet **Releases** : les archives `maison_facile.zip` de chaque version.
+- `releases/v<version>/maison_facile.zip` : l'archive de chaque version.
 
 Adresse à utiliser dans la box (Appareils et services › Maison Facile › Configurer) :
 
