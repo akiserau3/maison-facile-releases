@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.15/maison_facile.zip",
-      "sha256": "bdf0584dcf251df0c9248b5925b7d6a535e32a892082d4296fffbaaf8aa41718",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.16/maison_facile.zip",
+      "sha256": "1843e9b0f17851b565b21987a83c77dd345aeaff450cc2e702efaaa4da13bf50",
       "notes_fr": [
-        "Un petit chiffre sur Réglages indique qu'une mise à jour est à installer",
-        "Après une mise à jour ou un retour en arrière, la page revient toute seule sur Ma maison"
+        "Nouveau : une visite guidée explique la box la première fois",
+        "Pour la revoir : Réglages, puis Dépannage"
       ]
     },
     "test": {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.15/maison_facile.zip",
-      "sha256": "bdf0584dcf251df0c9248b5925b7d6a535e32a892082d4296fffbaaf8aa41718",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.16/maison_facile.zip",
+      "sha256": "1843e9b0f17851b565b21987a83c77dd345aeaff450cc2e702efaaa4da13bf50",
       "notes_fr": [
-        "Un petit chiffre sur Réglages indique qu'une mise à jour est à installer",
-        "Après une mise à jour ou un retour en arrière, la page revient toute seule sur Ma maison"
+        "Nouveau : une visite guidée explique la box la première fois",
+        "Pour la revoir : Réglages, puis Dépannage"
       ]
     }
   }
