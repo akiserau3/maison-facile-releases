@@ -2,29 +2,31 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.5/maison_facile.zip",
-      "sha256": "9ea8470a3c879e18a9fa983c00f6b6606d208184331142da0dd337fcdc650d23",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.6/maison_facile.zip",
+      "sha256": "d23aa7eb9f9563bf3f7ec97d208cb2a8489cbe33dbe1989d40481a7d56c3c870",
       "notes_fr": [
+        "Une nouvelle version s'affiche aussi juste après une mise à jour",
         "Les nouvelles versions sont vues tout de suite (plus d'ancienne copie en cache)",
-        "Après une mise à jour, l'écran se met à jour sans avoir à vider le cache du navigateur"
+        "Après une mise à jour, l'écran se met à jour sans vider le cache du navigateur"
       ]
     },
     "test": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.5/maison_facile.zip",
-      "sha256": "9ea8470a3c879e18a9fa983c00f6b6606d208184331142da0dd337fcdc650d23",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.6/maison_facile.zip",
+      "sha256": "d23aa7eb9f9563bf3f7ec97d208cb2a8489cbe33dbe1989d40481a7d56c3c870",
       "notes_fr": [
+        "Une nouvelle version s'affiche aussi juste après une mise à jour",
         "Les nouvelles versions sont vues tout de suite (plus d'ancienne copie en cache)",
-        "Après une mise à jour, l'écran se met à jour sans avoir à vider le cache du navigateur"
+        "Après une mise à jour, l'écran se met à jour sans vider le cache du navigateur"
       ]
     }
   }
