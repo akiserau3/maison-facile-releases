@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.16",
+      "version": "1.0.17",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.16/maison_facile.zip",
-      "sha256": "1843e9b0f17851b565b21987a83c77dd345aeaff450cc2e702efaaa4da13bf50",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.17/maison_facile.zip",
+      "sha256": "668e84938756756fd6e0debc4266bbfda3630a1bb92d09cdaef704485e899bc3",
       "notes_fr": [
-        "Nouveau : une visite guidée explique la box la première fois",
-        "Pour la revoir : Réglages, puis Dépannage"
+        "Nouveau : mode Expert pour un Home Assistant déjà configuré (Réglages avancés)",
+        "En mode Expert, rien n'est caché ni changé sans votre accord"
       ]
     },
     "test": {
-      "version": "1.0.16",
+      "version": "1.0.17",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.16/maison_facile.zip",
-      "sha256": "1843e9b0f17851b565b21987a83c77dd345aeaff450cc2e702efaaa4da13bf50",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.17/maison_facile.zip",
+      "sha256": "668e84938756756fd6e0debc4266bbfda3630a1bb92d09cdaef704485e899bc3",
       "notes_fr": [
-        "Nouveau : une visite guidée explique la box la première fois",
-        "Pour la revoir : Réglages, puis Dépannage"
+        "Nouveau : mode Expert pour un Home Assistant déjà configuré (Réglages avancés)",
+        "En mode Expert, rien n'est caché ni changé sans votre accord"
       ]
     }
   }
