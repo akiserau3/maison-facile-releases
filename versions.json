@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.4/maison_facile.zip",
-      "sha256": "338ce6e93ea24ad9efe64a5394e0966eff01416111f7fb3ced74a1033dae0172",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.5/maison_facile.zip",
+      "sha256": "9ea8470a3c879e18a9fa983c00f6b6606d208184331142da0dd337fcdc650d23",
       "notes_fr": [
-        "Les mises à jour sont recherchées toutes seules à l'ouverture de cette page",
-        "Bouton « Vérifier maintenant » et réglages sans mention « installateur » pour une box installée chez soi"
+        "Les nouvelles versions sont vues tout de suite (plus d'ancienne copie en cache)",
+        "Après une mise à jour, l'écran se met à jour sans avoir à vider le cache du navigateur"
       ]
     },
     "test": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.4/maison_facile.zip",
-      "sha256": "338ce6e93ea24ad9efe64a5394e0966eff01416111f7fb3ced74a1033dae0172",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.5/maison_facile.zip",
+      "sha256": "9ea8470a3c879e18a9fa983c00f6b6606d208184331142da0dd337fcdc650d23",
       "notes_fr": [
-        "Les mises à jour sont recherchées toutes seules à l'ouverture de cette page",
-        "Bouton « Vérifier maintenant » et réglages sans mention « installateur » pour une box installée chez soi"
+        "Les nouvelles versions sont vues tout de suite (plus d'ancienne copie en cache)",
+        "Après une mise à jour, l'écran se met à jour sans avoir à vider le cache du navigateur"
       ]
     }
   }
