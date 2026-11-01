@@ -2,29 +2,27 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.13",
+      "version": "1.0.14",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.13/maison_facile.zip",
-      "sha256": "f5f8915c72b843dbbddb16ea87d2cc6ffabfeecdf06232321522b89b4c369131",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.14/maison_facile.zip",
+      "sha256": "c056e24147ad602722410659bd8c378d73553793d4ef6d85a639e04cd4c3b51f",
       "notes_fr": [
-        "Le retour automatique à la version précédente est plus rapide",
-        "Un écran d'attente s'affiche pendant le démarrage et la page revient toute seule sur Ma maison"
+        "VERSION DE TEST VOLONTAIREMENT CASSÉE AU DÉMARRAGE : le gardien doit remettre la 1.0.13"
       ]
     },
     "test": {
-      "version": "1.0.13",
+      "version": "1.0.14",
       "released": "2026-11-01",
       "validated_date": "2026-11-01",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.13/maison_facile.zip",
-      "sha256": "f5f8915c72b843dbbddb16ea87d2cc6ffabfeecdf06232321522b89b4c369131",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.14/maison_facile.zip",
+      "sha256": "c056e24147ad602722410659bd8c378d73553793d4ef6d85a639e04cd4c3b51f",
       "notes_fr": [
-        "Le retour automatique à la version précédente est plus rapide",
-        "Un écran d'attente s'affiche pendant le démarrage et la page revient toute seule sur Ma maison"
+        "VERSION DE TEST VOLONTAIREMENT CASSÉE AU DÉMARRAGE : le gardien doit remettre la 1.0.13"
       ]
     }
   }
