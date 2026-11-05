@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.18",
+      "version": "1.0.19",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.18/maison_facile.zip",
-      "sha256": "fead71c5264e2f4d15afd5580c72a3c7fa9a9a04c2f8ac5ee3383238f745d05e",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.19/maison_facile.zip",
+      "sha256": "3b9003e3ad49ace314ba3a896aea829c83e27f396aefedc2d479de56065915be",
       "notes_fr": [
-        "Nouveau : carte « En écoute » sur l'accueil (musique ou télé en cours)",
-        "Prêt pour Home Assistant 2026.11"
+        "Nouveau : Réglages > Applications, pour installer Music Assistant et d'autres applications en un clic",
+        "Une sauvegarde est faite avant chaque installation"
       ]
     },
     "test": {
-      "version": "1.0.18",
+      "version": "1.0.19",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.11.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.18/maison_facile.zip",
-      "sha256": "fead71c5264e2f4d15afd5580c72a3c7fa9a9a04c2f8ac5ee3383238f745d05e",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.19/maison_facile.zip",
+      "sha256": "3b9003e3ad49ace314ba3a896aea829c83e27f396aefedc2d479de56065915be",
       "notes_fr": [
-        "Nouveau : carte « En écoute » sur l'accueil (musique ou télé en cours)",
-        "Prêt pour Home Assistant 2026.11 (validé sur le canal test)"
+        "Nouveau : Réglages > Applications, pour installer Music Assistant et d'autres applications en un clic",
+        "Une sauvegarde est faite avant chaque installation"
       ]
     }
   }
