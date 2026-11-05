@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.19",
+      "version": "1.0.20",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.19/maison_facile.zip",
-      "sha256": "3b9003e3ad49ace314ba3a896aea829c83e27f396aefedc2d479de56065915be",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.20/maison_facile.zip",
+      "sha256": "f1b32b422ec492fd0f06c9498cd127e02445962896154e7d33f397842a503194",
       "notes_fr": [
-        "Nouveau : Réglages > Applications, pour installer Music Assistant et d'autres applications en un clic",
-        "Une sauvegarde est faite avant chaque installation"
+        "Nouveau : Réglages > Musique (Music Assistant, comptes, paroles et karaoké)",
+        "Nouveau : onglet Modules (Marketplace) dans Réglages > Applications"
       ]
     },
     "test": {
-      "version": "1.0.19",
+      "version": "1.0.20",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.11.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.19/maison_facile.zip",
-      "sha256": "3b9003e3ad49ace314ba3a896aea829c83e27f396aefedc2d479de56065915be",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.20/maison_facile.zip",
+      "sha256": "f1b32b422ec492fd0f06c9498cd127e02445962896154e7d33f397842a503194",
       "notes_fr": [
-        "Nouveau : Réglages > Applications, pour installer Music Assistant et d'autres applications en un clic",
-        "Une sauvegarde est faite avant chaque installation"
+        "Nouveau : Réglages > Musique (Music Assistant, comptes, paroles et karaoké)",
+        "Nouveau : onglet Modules (Marketplace) dans Réglages > Applications"
       ]
     }
   }
