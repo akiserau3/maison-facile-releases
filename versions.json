@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.17",
-      "released": "2026-11-01",
-      "validated_date": "2026-11-01",
+      "version": "1.0.18",
+      "released": "2026-11-05",
+      "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.17/maison_facile.zip",
-      "sha256": "668e84938756756fd6e0debc4266bbfda3630a1bb92d09cdaef704485e899bc3",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.18/maison_facile.zip",
+      "sha256": "fead71c5264e2f4d15afd5580c72a3c7fa9a9a04c2f8ac5ee3383238f745d05e",
       "notes_fr": [
-        "Nouveau : mode Expert pour un Home Assistant déjà configuré (Réglages avancés)",
-        "En mode Expert, rien n'est caché ni changé sans votre accord"
+        "Nouveau : carte « En écoute » sur l'accueil (musique ou télé en cours)",
+        "Prêt pour Home Assistant 2026.11"
       ]
     },
     "test": {
-      "version": "1.0.17",
-      "released": "2026-11-01",
-      "validated_date": "2026-11-01",
+      "version": "1.0.18",
+      "released": "2026-11-05",
+      "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
-      "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.17/maison_facile.zip",
-      "sha256": "668e84938756756fd6e0debc4266bbfda3630a1bb92d09cdaef704485e899bc3",
+      "max_ha_validated": "2026.11.99",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.18/maison_facile.zip",
+      "sha256": "fead71c5264e2f4d15afd5580c72a3c7fa9a9a04c2f8ac5ee3383238f745d05e",
       "notes_fr": [
-        "Nouveau : mode Expert pour un Home Assistant déjà configuré (Réglages avancés)",
-        "En mode Expert, rien n'est caché ni changé sans votre accord"
+        "Nouveau : carte « En écoute » sur l'accueil (musique ou télé en cours)",
+        "Prêt pour Home Assistant 2026.11 (validé sur le canal test)"
       ]
     }
   }
