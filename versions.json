@@ -2,29 +2,33 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.21",
+      "version": "1.0.22",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.21/maison_facile.zip",
-      "sha256": "3ee25b5ce6b70503b3212dda2b9737bdc0187dd2893c1f59aeb9c016a8449409",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.22/maison_facile.zip",
+      "sha256": "ab1db11c4c748dfc40b4e19545a2937b92b14098d2c87e31d3d6bb2b4469e1c4",
       "notes_fr": [
-        "Nouveau : Réglages > IA > Caméras intelligentes (Frigate installé et réglé pas à pas)",
-        "Nouveau : relier ses appareils Smart Life / Tuya en scannant un QR code"
+        "Nouveau : reconnaissance des visages guidée pas à pas (avec votre accord, tout reste dans la box)",
+        "Nouveau : Votre IA (Ollama, OpenAI, Gemini, Claude) et descriptions des caméras",
+        "Nouveau : créer un automatisme en français avec l'IA, vérifié avant création",
+        "Nouvelles idées : « Quelqu'un à la porte » et « Bienvenue » (visage reconnu)"
       ]
     },
     "test": {
-      "version": "1.0.21",
+      "version": "1.0.22",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.11.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.21/maison_facile.zip",
-      "sha256": "3ee25b5ce6b70503b3212dda2b9737bdc0187dd2893c1f59aeb9c016a8449409",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.22/maison_facile.zip",
+      "sha256": "ab1db11c4c748dfc40b4e19545a2937b92b14098d2c87e31d3d6bb2b4469e1c4",
       "notes_fr": [
-        "Nouveau : Réglages > IA > Caméras intelligentes (Frigate installé et réglé pas à pas)",
-        "Nouveau : relier ses appareils Smart Life / Tuya en scannant un QR code"
+        "Nouveau : reconnaissance des visages guidée pas à pas (avec votre accord, tout reste dans la box)",
+        "Nouveau : Votre IA (Ollama, OpenAI, Gemini, Claude) et descriptions des caméras",
+        "Nouveau : créer un automatisme en français avec l'IA, vérifié avant création",
+        "Nouvelles idées : « Quelqu'un à la porte » et « Bienvenue » (visage reconnu)"
       ]
     }
   }
