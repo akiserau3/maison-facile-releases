@@ -2,29 +2,29 @@
   "schema": 1,
   "channels": {
     "stable": {
-      "version": "1.0.20",
+      "version": "1.0.21",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.10.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.20/maison_facile.zip",
-      "sha256": "f1b32b422ec492fd0f06c9498cd127e02445962896154e7d33f397842a503194",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.21/maison_facile.zip",
+      "sha256": "3ee25b5ce6b70503b3212dda2b9737bdc0187dd2893c1f59aeb9c016a8449409",
       "notes_fr": [
-        "Nouveau : Réglages > Musique (Music Assistant, comptes, paroles et karaoké)",
-        "Nouveau : onglet Modules (Marketplace) dans Réglages > Applications"
+        "Nouveau : Réglages > IA > Caméras intelligentes (Frigate installé et réglé pas à pas)",
+        "Nouveau : relier ses appareils Smart Life / Tuya en scannant un QR code"
       ]
     },
     "test": {
-      "version": "1.0.20",
+      "version": "1.0.21",
       "released": "2026-11-05",
       "validated_date": "2026-11-05",
       "min_ha": "2026.2.0",
       "max_ha_validated": "2026.11.99",
-      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.20/maison_facile.zip",
-      "sha256": "f1b32b422ec492fd0f06c9498cd127e02445962896154e7d33f397842a503194",
+      "url": "https://raw.githubusercontent.com/akiserau3/maison-facile-releases/main/releases/v1.0.21/maison_facile.zip",
+      "sha256": "3ee25b5ce6b70503b3212dda2b9737bdc0187dd2893c1f59aeb9c016a8449409",
       "notes_fr": [
-        "Nouveau : Réglages > Musique (Music Assistant, comptes, paroles et karaoké)",
-        "Nouveau : onglet Modules (Marketplace) dans Réglages > Applications"
+        "Nouveau : Réglages > IA > Caméras intelligentes (Frigate installé et réglé pas à pas)",
+        "Nouveau : relier ses appareils Smart Life / Tuya en scannant un QR code"
       ]
     }
   }
